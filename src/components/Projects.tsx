@@ -19,11 +19,11 @@ const projects = [
   {
     title: 'Fuel-Aware Navigation',
     description: 'A smart navigation system that optimizes routes based on real-time fuel levels, helping you reach your destination efficiently while avoiding running out of fuel.',
-    tech: ['ESP-32', 'Web development', 'API', 'C++', 'Computer Networks'],
+    tech: ['ESP-32', 'Web development', 'API', 'C++', 'Computer Networks', 'MySQL', 'Hardware Prototyping'],
     github: 'https://github.com/4yu5h-crtl/Fuel_Aware_Navigation',
     image: '/projects/fuel.png',
     demo: null,
-    ongoing: true
+    ongoing: false
   },
   {
     title: 'ESP32-CAM Surveillance Bot',
