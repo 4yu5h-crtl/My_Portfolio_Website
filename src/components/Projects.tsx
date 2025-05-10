@@ -52,6 +52,15 @@ const projects = [
     demo: null,
     ongoing: false
   },
+  {
+    title: 'AI-Powered Website Creation Tool',
+    description: 'Frontend Builder is an AI-assisted web development platform built to simplify HTML website creation, editing, and deployment. Designed for both beginners and developers, the tool offers a smooth and interactive experience to build static sites using real-time code editing and intelligent assistance.',
+    tech: ['Natural Language Processing', 'Python', 'AI Integration', 'Streamlit', 'Web Deployment', 'Creative Problem Solving'],
+    github: 'https://github.com/4yu5h-crtl/Frontend_Builder/',
+    image: '/projects/front-build.png',
+    demo: null,
+    ongoing: false
+  },
 ];
 
 const Projects = () => {
