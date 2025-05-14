@@ -13,7 +13,7 @@ const certifications = [
     credentialUrl: 'https://coursera.org/verify/professional-cert/NGICRIOWHBIN',
     description: 'Comprehensive course covering supervised learning, unsupervised learning, and deep learning techniques. Implemented algorithms from scratch and used popular ML libraries.',
     skills: ['Machine Learning', 'Python', 'Classification And Regression Tree', 'Algorithms', 'Reinforcement Learning', 'Statistical Inference', 'Deep Learning', 'Exploratory Data Analysis', ],
-    image: '/certifications/ibmml.jpeg', 
+    image: '/certifications/ibmml.jpg', 
   },
   {
     name: 'AWS Academy Cloud Foundations',
