@@ -10,10 +10,10 @@ const certifications = [
     name: 'IBM Machine Learning Professional Certificate',
     issuer: 'IBM',
     date: 'May 2025',
-    credentialUrl: '',
+    credentialUrl: 'https://coursera.org/verify/professional-cert/NGICRIOWHBIN',
     description: 'Comprehensive course covering supervised learning, unsupervised learning, and deep learning techniques. Implemented algorithms from scratch and used popular ML libraries.',
     skills: ['Machine Learning', 'Python', 'Classification And Regression Tree', 'Algorithms', 'Reinforcement Learning', 'Statistical Inference', 'Deep Learning', 'Exploratory Data Analysis', ],
-    image: '/certifications/', 
+    image: '/certifications/ibmml.jpeg', 
   },
   {
     name: 'AWS Academy Cloud Foundations',
