@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   title: 'Ayush Chintalwar | Portfolio',
   description: 'Robotics & AI enthusiast, building smart systems and innovating with technology.',
   icons: {
-    icon: '/icon.svg',
-    apple: '/icon.svg',
+    icon: '/favicon.png',
+    apple: '/favicon.png',
   },
 };
 
