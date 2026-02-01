@@ -43,15 +43,6 @@ const projects = [
     ongoing: false
   },
   {
-    title: 'Personalized Fitness Dashboard',
-    description: 'An intelligent health monitoring system that leverages Machine Learning to estimate calorie burn, analyze workout trends, and provide tailored fitness recommendations. This project is designed to empower users with real-time data-driven health insights to optimize their fitness journey.',
-    tech: ['Regression Modeling', 'Python', 'Data Preprocessing', 'Streamlit'],
-    github: 'https://github.com/4yu5h-crtl/Personal_Fitness_Tracker',
-    image: '/projects/fitness.jpg',
-    demo: null,
-    ongoing: false
-  },
-  {
     title: 'AI-Powered Website Creation Tool',
     description: 'Frontend Builder is an AI-assisted web development platform built to simplify HTML website creation, editing, and deployment. Designed for both beginners and developers, the tool offers a smooth and interactive experience to build static sites using real-time code editing and intelligent assistance.',
     tech: ['NLP', 'Python', 'AI Integration', 'Streamlit', 'Web Deployment'],
@@ -108,5 +99,6 @@ const Projects = () => {
     </section>
   );
 };
+
 
 export default Projects;
